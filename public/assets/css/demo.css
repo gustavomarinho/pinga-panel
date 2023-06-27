@@ -83,6 +83,14 @@ pre.highlight::-webkit-scrollbar-corner,
   overflow-x: auto;
 }
 
+
+.chat-box {
+  display: 2rem;
+  margin: 1rem;
+  width: 48px;
+  height: 48px;
+  flex-shrink: 0;
+  
 .example-centered {
   justify-content: center;
 }
